@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/platformer/static/css/main.f855e6bc.css",
-    "main.js": "/platformer/static/js/main.af7ebf13.js",
+    "main.js": "/platformer/static/js/main.39072394.js",
     "static/js/453.7e33190e.chunk.js": "/platformer/static/js/453.7e33190e.chunk.js",
     "static/media/Thomas.png": "/platformer/static/media/Thomas.f22a45fa123a4ebeee60.png",
     "static/media/heartburn.jpeg": "/platformer/static/media/heartburn.7ce3a1d15468841fbdcb.jpeg",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/platformer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/platformer/index.html",
     "main.f855e6bc.css.map": "/platformer/static/css/main.f855e6bc.css.map",
-    "main.af7ebf13.js.map": "/platformer/static/js/main.af7ebf13.js.map",
+    "main.39072394.js.map": "/platformer/static/js/main.39072394.js.map",
     "453.7e33190e.chunk.js.map": "/platformer/static/js/453.7e33190e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.af7ebf13.js"
+    "static/js/main.39072394.js"
   ]
 }
